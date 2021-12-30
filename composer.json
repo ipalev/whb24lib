@@ -7,5 +7,10 @@
             "email": "60583305+ipalev@users.noreply.github.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "whb24lib\\": "b24rest/"
+        }
+    },
     "require": {}
 }
