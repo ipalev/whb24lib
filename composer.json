@@ -1,0 +1,11 @@
+{
+    "name": "ipalev/whb24lib",
+    "description": "library for webhook in bitrix24",
+    "authors": [
+        {
+            "name": "ipalev",
+            "email": "60583305+ipalev@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
