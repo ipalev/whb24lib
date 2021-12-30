@@ -1,6 +1,6 @@
 <?php
 
-namespace whb24lib\b24rest;
+namespace whb24lib;
 
 define('C_REST_WEB_HOOK_URL','https://yourportal.bitrix24.ru/rest/123/f9gu9blc3it2m0q5/');//url your Webhook
 
